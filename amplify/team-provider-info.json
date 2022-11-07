@@ -17,6 +17,9 @@
       },
       "api": {
         "amplifyreactgraphql": {}
+      },
+      "storage": {
+        "s38f26e423": {}
       }
     }
   }
